@@ -4,21 +4,21 @@ function Products() {
       {
         icon: 'package',
         title: 'UI设计系统',
-        price: '¥299',
+        price: '¥5000',
         description: '完整的设计系统模板，包含200+组件和设计规范，适用于企业级产品',
         features: ['200+ UI组件', '完整设计规范', '源文件交付', '终身更新']
       },
       {
         icon: 'book-open',
         title: '前端开发课程',
-        price: '¥599',
+        price: '¥5000',
         description: '从零到一学习现代前端开发，包含实战项目和代码审查',
         features: ['20小时视频', '5个实战项目', '代码审查', '社群答疑']
       },
       {
         icon: 'zap',
         title: '网站定制服务',
-        price: '¥3999起',
+        price: '¥5000起',
         description: '提供一对一网站设计与开发服务，打造独特的在线品牌形象',
         features: ['需求分析', '设计开发', '性能优化', '售后支持']
       }
