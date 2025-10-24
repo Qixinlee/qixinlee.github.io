@@ -4,25 +4,25 @@ function Contact() {
       {
         icon: 'mail',
         title: '电子邮件',
-        value: 'hello@liming.com',
+        value: 'hi@qixinlee.com',
         description: '工作咨询或合作请发邮件联系',
-        link: 'mailto:hello@liming.com',
+        link: 'mailto:hi@qixinlee.com',
         color: 'bg-red-50',
         iconColor: 'text-red-600'
       },
       {
         icon: 'github',
         title: 'GitHub',
-        value: '@liming-dev',
+        value: '@qixinlee',
         description: '查看我的开源项目和代码',
-        link: 'https://github.com',
+        link: 'https://github.com/qixinlee/',
         color: 'bg-gray-100',
         iconColor: 'text-gray-800'
       },
       {
         icon: 'message-circle',
         title: '微信',
-        value: 'liming_design',
+        value: 'test',
         description: '扫码添加微信好友交流',
         link: '#',
         color: 'bg-green-50',
